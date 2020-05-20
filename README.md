@@ -16,4 +16,5 @@ UseTLS=YES
 
 ## Usage:
 1. Setup the configuration inside the runner.php file.
-2. /usr/bin/php /path/to/your_directory/runner.php
+2. Run /usr/bin/php /path/to/your_directory/runner.php
+3. Optionally you can add it to your crontab.
