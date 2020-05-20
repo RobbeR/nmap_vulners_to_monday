@@ -13,3 +13,8 @@ AuthPass=password
 UseTLS=YES
 
 2. Add the your_monday_user@gmail.com to your Monday workspace and assign that to the board.
+
+
+Usage: 
+1. Setup the configuration inside the runner.php file.
+2. /usr/bin/php /path/to/your_directory/runner.php
